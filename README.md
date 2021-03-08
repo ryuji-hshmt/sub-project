@@ -1,3 +1,3 @@
 # sub-project
 git講座用　subプロジェクト
-github de renew
+github de renewal
